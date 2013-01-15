@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CommandLine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CommandLine_jar</output-path>
+    <root id="archive" name="CommandLine.jar">
+      <element id="module-output" name="CommandLine" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-server-standalone-2.28.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apache-mime4j-0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/logback-core-1.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/logback-classic-1.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.2.jar" path-in-jar="/" />
+      <element id="dir-copy" path="D:/libs/java/workspace_sel/Krypton/bin/automated_framework" />
+    </root>
+  </artifact>
+</component>
